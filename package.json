@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kelvym/vercel-node/issues"
   },
-  "homepage": "https://github.com/kelvym/vercel-node#readme"
+  "homepage": "https://github.com/kelvym/vercel-node#readme",
+  "dependencies": {
+    "@vercel/node": "^2.10.3"
+  }
 }
